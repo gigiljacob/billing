@@ -13,3 +13,19 @@ All the data would be backedup to cloud and from there reports would be generate
 
 ![alt text](https://github.com/gigiljacob/billing/blob/prod/documents/billing-flow-chart.png?raw=true)
 
+
+## Portal Pages
+
+> Company Registration Page
+
+> Company Login Page
+
+> Company Dashboard Page
+
+> Purchase Entry Page
+
+> Customer Details Page
+
+> Sales Entry Page
+
+> Bill Details
